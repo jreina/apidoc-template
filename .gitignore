@@ -4,3 +4,7 @@ node_modules/
 tmp/
 npm-debug.log
 .idea
+template/api_data.js
+template/api_data.json
+template/api_project.js
+template/api_project.json
