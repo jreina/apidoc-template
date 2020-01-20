@@ -1,8 +1,8 @@
 {
-  "name": "apidoc-template",
-  "version": "1.0.0",
+  "name": "@johnny.reina/apidoc-template",
+  "version": "0.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "template/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

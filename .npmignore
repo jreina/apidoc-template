@@ -6,3 +6,7 @@ tmp/
 .npmignore
 .travis.yml
 npm-debug.log
+template/api_data.js
+template/api_data.json
+template/api_project.js
+template/api_project.json
